@@ -1,0 +1,1 @@
+Adds a special statue that can be crafted from 50 stone blocks and a suspicious looking eye on the demonic altar. When powered, it spawns the eye of cthulhu that has a 2% chance of dropping loot.

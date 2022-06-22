@@ -1,0 +1,3 @@
+displayName = Eye of Cthulhu Statue Mod
+author = tewi0000
+version = 0.1
